@@ -1,0 +1,2 @@
+# PingDirectoryConfiguration
+PingDirectory configuration explained from scratch
